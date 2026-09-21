@@ -1,1 +1,1 @@
-this is emacs file
+Emacs is an advanced text editor.
